@@ -1,0 +1,20 @@
+{
+    "name": "xiang/hypery-rebuild",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Kevin Xiang",
+            "email": "xiangqiling@cohim.com"
+        }
+    ],
+    "require": {
+        "symfony/console": "^4.4",
+        "symfony/finder": "^4.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Rebuild\\":  "src/"
+        }
+    }
+}

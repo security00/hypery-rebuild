@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="48981183-7cd9-4d41-9b71-bb72367d8830" name="rebuild-hyperf">
+        <fileTransfer rootFolder="/root" accessType="SFTP" host="192.168.106.129" port="22" sshConfigId="ce9d0dd2-2877-41bb-8ec5-16376b8de24c" sshConfig="root@192.168.106.129:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
