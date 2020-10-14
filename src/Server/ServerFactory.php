@@ -13,14 +13,22 @@ class ServerFactory
 {
     protected array $serverConfig = [];
 
+    /**
+     * @var \Rebuild\Server\Server
+     */
+    protected $server;
+
     public function configure(array $configs)
     {
         $this->serverConfig = $configs;
         $this->getServer()->init($this->serverConfig);
     }
 
-    protected function getServer()
+    public function getServer() :Server
     {
-
+        if (! isset($this->server)) {
+            $this->server = new Server();
+        }
+        return $this->server;
     }
 }
