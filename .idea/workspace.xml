@@ -2,18 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c129537-a116-45f5-8e52-3c7f1ff0b614" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/Bar.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Foo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/rebuild.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/autoload/commands.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/config.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Command/StartCommand.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Config/Config.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Config/ConfigFactory.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contract/ConfigInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Server/Server.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Server/ServerFactory.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Server/ServerInterface.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-10-12T104446.200.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/hypery-rebuild.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +95,8 @@
       <updated>1602427638204</updated>
       <workItem from="1602427641902" duration="6739000" />
       <workItem from="1602511540884" duration="2763000" />
-      <workItem from="1602514472092" duration="7354000" />
+      <workItem from="1602514472092" duration="8064000" />
+      <workItem from="1602686934432" duration="849000" />
     </task>
     <servers />
   </component>
